@@ -3,3 +3,4 @@
 ['remote "s3"']
     url = s3://dvc
     endpointurl = https://workload-gw.mlops.carestreamhealth.com:10058
+    use_ssl = False
