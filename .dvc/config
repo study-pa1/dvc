@@ -1,4 +1,4 @@
 [core]
     remote = azure
 ['remote "azure"']
-    url = azure://carestreamdata/dvc-demo
+    url = azure://dvc-demo/
