@@ -1,4 +1,6 @@
 [core]
-    remote = azure
-['remote "azure"']
-    url = azure://dvc-demo/
+    remote = s3
+['remote "s3"']
+    url = s3://dvc
+    endpointurl = https://workload-gw.mlops.carestreamhealth.com:10058
+    ssl_verify = false
